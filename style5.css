@@ -106,9 +106,11 @@ header .logo a {
 }
 
 .img_about img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 50%;
+    max-width: 93%;
+    height: auto;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 43px;
 }
 
 #about h1 {
@@ -129,6 +131,7 @@ header .logo a {
   color: #6b7280;
   margin-bottom: 1.5rem;
   line-height: 1.4;
+  text-align: justify;
 }
 
 .about_btn button {
