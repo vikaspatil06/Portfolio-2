@@ -105,11 +105,11 @@ header .logo a {
 }
 
 .img_about img {
-    max-width: 93%;
-    height: auto;
+    max-width: 70%;
+    height: 70%;
     border-radius: 50%;
-    margin-top: 50px;
-    margin-left: 43px;
+    margin-top: 70px;
+    margin-left: 154px;
 }
 
 #about h1 {
@@ -127,10 +127,11 @@ header .logo a {
 
 #about p {
   font-size: 16px;
-  color: #6b7280;
-  margin-bottom: 1.5rem;
-  line-height: 1.4;
-  text-align: justify;
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
+    text-align: justify;
+    width: 125%;
 }
 
 .about_btn button {
